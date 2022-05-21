@@ -14,7 +14,7 @@ As of now, the only conversion possible is by using Ethereum or other ERC-20 com
 
 When purchasing a token, ensure that the receiving address is an Ethereum addres, otherwise, the funds will be lost!
 
-For a more detailed example on how to interact with the smart contract, see this [video](./Screenshots/kaseicoin_demo.mp4).
+For a more detailed example on how to interact with the smart contract and purchase KaseiCoin tokens, see this [video](./Screenshots/kaseicoin_demo.mp4).
 
 # Evaluation Evidence 
 
@@ -29,3 +29,8 @@ KaseiCoin Crowdsale Compliation Success:
 KaseiCoin Crowdsale Deployer Compliation Success:
 ![kaseicoin_crowdsale_deployer_compliation](./Screenshots/kaseicoin_crowdsale_deployer_compliation.png)
 
+# Libraries
+
+The following libraries were used when developing this token.
+
+* [OpenZepplin](https://github.com/OpenZeppelin/openzeppelin-contracts)
